@@ -1,5 +1,5 @@
 package it.polito.tdp.borders.model;
-
+//entrano migranti
 public class Event implements Comparable<Event>{
 	
 	private int time;
